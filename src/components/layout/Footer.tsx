@@ -74,7 +74,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-slate-700 mt-8 pt-8 text-center text-slate-300">
-          <p>&copy; 2024 SAA COUNSELORS | Designed & Developed by Digital Roof</p>
+          <p>&copy; 2024 SAA COUNSELORS | Designed & Developed by Pranav Arya</p>
         </div>
       </div>
     </footer>
